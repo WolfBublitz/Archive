@@ -1,0 +1,3 @@
+[submodule "src/Archive.FileScanner"]
+	path = src/Archive.FileScanner
+	url = https://github.com/WolfBublitz/Archive.FileScanner
